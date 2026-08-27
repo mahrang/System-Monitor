@@ -3,8 +3,6 @@
 
 <img width="674" height="348" alt="Screen Shot of Output" src="https://github.com/user-attachments/assets/de5e2a23-6518-42e3-b2c9-9110ac729662" />
 
-![System Monitor](images/monitor.png)
-
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
 
@@ -24,5 +22,3 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 2. Build the project: `make build`
 
 3. Run the resulting executable: `./build/monitor`
-   
-![Starting System Monitor](images/starting_monitor.png)
