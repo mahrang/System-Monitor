@@ -20,7 +20,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions
 
-1. Clone this repository: `git clone https://github.com/mahrang/System-Monitor.git`
+1. Clone this repository: `git clone https://github.com/mahrang/System-Monitor`
 
 2. Build the project: <br>
    `cd System-Monitor` <br>
