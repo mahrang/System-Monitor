@@ -2,7 +2,7 @@
 # System Monitor
 
 <img width="674" height="348" alt="Screen Shot of Output" src="https://github.com/user-attachments/assets/de5e2a23-6518-42e3-b2c9-9110ac729662" />
-
+<br>
 This is a process manager for Linux to display system, CPU, memory, and processes data.
 
 ## ncurses
@@ -21,8 +21,8 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 1. Clone this repository: `git clone https://github.com/mahrang/System-Monitor.git`
 
-2. Build the project:
-   `cd System-Monitor`
+2. Build the project: <br>
+   `cd System-Monitor` <br>
    `make build`
 
 4. Run the resulting executable: `./build/monitor`
