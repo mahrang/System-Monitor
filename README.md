@@ -1,4 +1,7 @@
+
 # System Monitor
+
+<img width="674" height="348" alt="Screen Shot of Output" src="https://github.com/user-attachments/assets/de5e2a23-6518-42e3-b2c9-9110ac729662" />
 
 ![System Monitor](images/monitor.png)
 
