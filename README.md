@@ -21,6 +21,6 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 1. Clone this repository: `git clone https://github.com/mahrang/System-Monitor.git`
 
-2. Build the project: `make build`
+2. Build the project: `cd System-Monitor`, then `make build`
 
 3. Run the resulting executable: `./build/monitor`
